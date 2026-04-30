@@ -8,7 +8,13 @@ This repository contains Python-based analysis code, figures, and supporting mat
 
 ## 📄 Description
 
-This repository contains Python-based analysis for reconstructing and evaluating SIGMET-related aviation weather hazards in the Ujung Pandang FIR during 2019–2025. The study focuses on temporal trends, spatial distribution, and risk characterization of SIGMET events to support aviation decision-making.
+The study investigates the evolution of aviation weather hazards represented by SIGMET in Indonesian airspace, with a focus on the Ujung Pandang FIR. SIGMET events are analyzed as dynamic and evolving hazards rather than static warnings, emphasizing temporal variability, spatial distribution, and operational implications for aviation decision-making.
+
+The analysis integrates climatological assessment, spatial overlap analysis, kernel density estimation (KDE) for long-term hazard hotspot reconstruction, and statistical evaluation of flight level and event duration. These approaches are used to reconstruct fragmented historical SIGMET records into a coherent spatiotemporal risk framework.
+
+In addition, a cost–benefit analysis is performed to evaluate the operational impact of incorporating SIGMET intensity information (NC and INTSF) into decision-making. The results indicate measurable reductions in operational risk and estimated fuel consumption, highlighting the potential of status-aware SIGMET interpretation to improve both flight safety and operational efficiency.
+
+Overall, this work demonstrates that incorporating hazard evolution information significantly enhances aviation weather risk assessment by improving situational awareness, reducing uncertainty, and supporting more efficient flight planning under tropical convective conditions.
 
 ---
 
