@@ -52,14 +52,16 @@ https://web-aviation.bmkg.go.id/web/sigmet.php
 
 The datasets used in this study are not publicly available in this repository.
 
-Access to processed SIGMET data may be granted upon reasonable request for academic or research purposes.
+Access to the processed SIGMET data may be granted upon reasonable request for academic or research purposes.
+
+Raw SIGMET data are publicly available from the BMKG Aviation database at https://web-aviation.bmkg.go.id/web/sigmet.php.
 
 Requests should include a brief description of the intended use and research context.
 
 Contact:  
 Tri Giswa Alfiah Ruggayah  
 Department of Geophysics  
-Universitas Hasanuddin  
+Universitas Hasanuddin
 
 ---
 
