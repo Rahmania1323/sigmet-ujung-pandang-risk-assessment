@@ -38,8 +38,8 @@ All figures are generated using Python scripts in this repository.
 
 ## 🔗 Data Source
 
-- SIGMET Data: :contentReference[oaicite:0]{index=0} Aviation Weather Service  
-  https://web-aviation.bmkg.go.id/web/sigmet.php  
+SIGMET data were obtained from :contentReference[oaicite:1]{index=1} Aviation Weather Service:  
+https://web-aviation.bmkg.go.id/web/sigmet.php
 
 ---
 
