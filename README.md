@@ -14,14 +14,12 @@ This repository contains Python-based analysis for reconstructing and evaluating
 
 ## 📁 Repository Structure
 
-- `data/`
-- `figures/`
 - `outputs/`
 - `scripts/`
 
 ---
 
-## 📊 Figures Included
+## 📊 Figures and Table Included
 
 - **Figure 1.** Ujung Pandang FIR, Indonesia  
 - **Figure 2.** SIGMET Code  
@@ -30,9 +28,10 @@ This repository contains Python-based analysis for reconstructing and evaluating
 - **Figure 5.** Spatial Overlap of SIGMET NC and INTSF Status over Ujung Pandang FIR (2024–2025)  
 - **Figure 6.** SIGMET Intensity Overlap (2019–2025)  
 - **Figure 7.** Monthly SIGMET Status Percentage (2024–2025)  
-- **Figure 8.** Monthly Mean Flight Level and Monthly Mean SIGMET Duration (2024–2025)    
+- **Figure 8.** Monthly Mean Flight Level and Monthly Mean SIGMET Duration (2024–2025)  
+- **Table 1.** Monthly Operational Risk Reduction and Estimated Fuel Savings from SIGMET Status-Aware Approach (2024–2025)
 
-All figures are generated using Python scripts in this repository.
+All figures and tables are generated using Python scripts in this repository.
 
 ---
 
