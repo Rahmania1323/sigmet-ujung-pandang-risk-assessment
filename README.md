@@ -20,8 +20,8 @@ Overall, this work demonstrates that incorporating hazard evolution information 
 
 ## 📁 Repository Structure
 
-- `outputs/`
-- `scripts/`
+- `outputs/`  
+- `scripts/`  
 
 ---
 
@@ -35,7 +35,7 @@ Overall, this work demonstrates that incorporating hazard evolution information 
 - **Figure 6.** SIGMET Intensity Overlap (2019–2025)  
 - **Figure 7.** Monthly SIGMET Status Percentage (2024–2025)  
 - **Figure 8.** Monthly Mean Flight Level and Monthly Mean SIGMET Duration (2024–2025)  
-- **Table 1.** Monthly Operational Risk Reduction and Estimated Fuel Savings from SIGMET Status-Aware Approach (2024–2025)
+- **Table 1.** Monthly Operational Risk Reduction and Estimated Fuel Savings from SIGMET Status-Aware Approach (2024–2025)  
 
 All figures and tables are generated using Python scripts in this repository.
 
@@ -44,7 +44,7 @@ All figures and tables are generated using Python scripts in this repository.
 ## 🔗 Data Source
 
 SIGMET data were obtained from : Aviation Weather Service:  
-https://web-aviation.bmkg.go.id/web/sigmet.php
+https://web-aviation.bmkg.go.id/web/sigmet.php  
 
 ---
 
@@ -57,7 +57,7 @@ Access to processed SIGMET data may be granted upon reasonable request for acade
 Requests should include a brief description of the intended use and research context.
 
 Contact:  
-**Tri Giswa Alfiah Ruggayah**  
+Tri Giswa Alfiah Ruggayah  
 Department of Geophysics  
 Universitas Hasanuddin  
 
@@ -65,7 +65,7 @@ Universitas Hasanuddin
 
 ## 👤 Authors
 
-**Tri Giswa Alfiah Ruggayah, Muhlis, Nur Rahmania Ramadhani, Ahmad Reihan, Halmar Halide**  
+Tri Giswa Alfiah Ruggayah, Muhlis, Nur Rahmania Ramadhani, Ahmad Reihan, Halmar Halide  
 Department of Geophysics  
 Universitas Hasanuddin  
 
