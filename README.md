@@ -70,7 +70,8 @@ Tri Giswa Alfiah Ruggayah¹*, Muhlis², Nur Rahmania Ramadhani¹, Ahmad Reihan¹
 ¹ Department of Geophysics, Faculty of Mathematics and Natural Sciences, Universitas Hasanuddin, Jl. Perintis Kemerdekaan Km. 10, Makassar 90245, South Sulawesi, Indonesia  
 ² Postgraduate Study Program, Faculty of Marine Science and Fisheries, Universitas Hasanuddin, Makassar, Indonesia  
 
-*Email: ruggayahtga23h@student.unhas.ac.id
+Email: ruggayahtga23h@student.unhas.ac.id
+
 ---
 
 ## 📜 License
