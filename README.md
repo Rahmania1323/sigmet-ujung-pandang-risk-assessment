@@ -24,13 +24,13 @@ This repository contains Python-based analysis for reconstructing and evaluating
 ## 📊 Figures Included
 
 - **Figure 1.** Ujung Pandang FIR, Indonesia  
-- **Figure 2.** SIGMET Code Classification  
+- **Figure 2.** SIGMET Code  
 - **Figure 3.** SIGMET Risk Assessment Framework  
 - **Figure 4.** Climatological Monthly Distribution of SIGMET Events (2019–2025)  
-- **Figure 5.** Spatial Overlap of SIGMET NC and INTSF Status (2024–2025)  
+- **Figure 5.** Spatial Overlap of SIGMET NC and INTSF Status over Ujung Pandang FIR (2024–2025)  
 - **Figure 6.** SIGMET Intensity Overlap (2019–2025)  
 - **Figure 7.** Monthly SIGMET Status Percentage (2024–2025)  
-- **Figure 8.** Monthly Mean Flight Level and SIGMET Duration (2024–2025)  
+- **Figure 8.** Monthly Mean Flight Level and Monthly Mean SIGMET Duration (2024–2025)    
 
 All figures are generated using Python scripts in this repository.
 
